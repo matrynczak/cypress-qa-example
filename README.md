@@ -12,7 +12,9 @@ Prerequisites:
 * installed Node >= 12
 * installed Yarn package manager or install that by 
 
-        npm install yarn
+
+    npm install yarn
+
     
 * installed Chrome browser
 
@@ -32,14 +34,18 @@ There are 2 ways of running tests:
 2. Run - run the tests in the background (you can still choose the spec to run - details in the Cypress documentation)
 
 
-    Open:
+   Open:
+   
     
     yarn run cypress open     
 
 
-    Run:
+
+   Run:
+   
     
     yarn run cypress run 
+   
     
     
 Automation files have got comments if which has my concerns/doubts or additional explanation.
