@@ -1,0 +1,10 @@
+export const CONTACT_FORM = 'form.contact-form-box';
+export const SUBJECT_HEADING_DD = 'select#id_contact';
+export const EMAIL_INPUT = 'input#email';
+export const ORDER_REF_INPUT = 'input#id_order';
+export const FILE_UPLOAD_INPUT = 'input#fileUpload';
+export const MESSAGE_INPUT = 'textarea#message';
+export const SUBMIT_BUTTON = 'button#submitMessage';
+export const SUCCESS_CONFIRMATION = 'p.alert-success';
+export const FAIL_ALERT = 'div.alert-danger';
+export const EMAIL_PARENT_CLASS = '//input[@id="email"]/..';

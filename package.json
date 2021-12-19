@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cypress": "^9.1.1",
+    "cypress-file-upload": "^5.0.8",
+    "cypress-xpath": "^1.6.2",
+    "randexp": "^0.5.3",
+    "random-email": "^1.0.3"
+  }
+}
