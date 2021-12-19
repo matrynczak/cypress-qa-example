@@ -13,8 +13,8 @@ Prerequisites:
 * installed Yarn package manager or install that by 
 
 
-    npm install yarn
-
+`    npm install yarn
+`
     
 * installed Chrome browser
 
@@ -23,8 +23,9 @@ Prerequisites:
     
 To install the dependencies please run the command:
 
-    yarn install
-    
+`    yarn install
+`    
+
 Once all of the dependencies are installed you can start testing.
 
     Tests execution:
@@ -37,15 +38,15 @@ There are 2 ways of running tests:
    Open:
    
     
-    yarn run cypress open     
-
+`    yarn run cypress open     
+`
 
 
    Run:
    
     
-    yarn run cypress run 
-   
+`    yarn run cypress run 
+`   
     
     
 Automation files have got comments if which has my concerns/doubts or additional explanation.
