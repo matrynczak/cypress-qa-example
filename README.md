@@ -34,19 +34,15 @@ There are 2 ways of running tests:
 1. Open - it opens Cypress interaction/debugger window and you can choose which file you want to execute
 2. Run - run the tests in the background (you can still choose the spec to run - details in the Cypress documentation)
 
-
-   Open:
+ Open:
    
     
 `    yarn run cypress open     
 `
 
-
-   Run:
+ Run:
    
-    
-`    yarn run cypress run 
+`      yarn run cypress run 
 `   
-    
-    
+       
 Automation files have got comments if which has my concerns/doubts or additional explanation.
