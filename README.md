@@ -45,4 +45,4 @@ There are 2 ways of running tests:
 `      yarn run cypress run 
 `   
        
-Automation files have got comments if which has my concerns/doubts or additional explanation.
+Automation files have got comments which has my concerns/doubts or additional explanation.
