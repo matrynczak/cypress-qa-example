@@ -67,7 +67,7 @@ CHECKOUT PROCESS:
 For all of the kind of users test every shipping option and every payment option --- probably using some matrix (to cover all of the combinations)
 
 - - - -
-![Alt text](./Screenshot 2021-12-19 at 18.57.16.png "Possible scenarios of checkout process - happy paths")
+![Alt text](./Screenshot 2021-12-19 at 18.57.16.png?raw=true "Possible scenarios of checkout process - happy paths")
 - - - -
 
 * Check if user can log out during the checkout process and if he/she is informed about losing the data of cart/checkout process.
